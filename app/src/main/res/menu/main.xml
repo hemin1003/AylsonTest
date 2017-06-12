@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:orderInCategory="100"
+        android:title="注销登录" app:showAsAction="never" />
+    <item android:id="@+id/action_newBt" android:orderInCategory="100"
+        android:title="testInit" app:showAsAction="never" />
+</menu>
